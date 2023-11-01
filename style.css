@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Akatab&family=Assistant:wght@300&family=MuseoModerno&family=Titillium+Web:wght@300&family=Ubuntu:wght@300&display=swap');
 
 html {
-	cursor: url("Cursor.svg"), none;
+	cursor: url("cursor.svg"), none;
 }
 
 body {
